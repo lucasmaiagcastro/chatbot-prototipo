@@ -1,0 +1,7 @@
+gradio==3.36.1
+transformers==4.31.0
+sentence-transformers==2.2.2
+torch>=2.0.0
+PyPDF2==3.0.1
+numpy<2
+

@@ -1,0 +1,21 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar arquivos e diretórios do sistema
+.DS_Store
+.idea/
+__pycache__/
+
+# Ignorar arquivos de cache
+*.pyc
+*.pyo
+
+# Ignorar logs e arquivos temporários
+*.log
+*.tmp
+
+# Ignorar arquivos do VS Code
+.vscode/
+
+# Ignorar bibliotecas e dependências
+node_modules/
